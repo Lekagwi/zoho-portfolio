@@ -170,6 +170,13 @@ function Projects() {
             automation and modern web technologies.
           </p>
 
+          <a
+  href="#contact"
+  className="mt-10 inline-flex items-center rounded-full bg-red-500 px-8 py-4 font-semibold text-white transition-all duration-300 hover:scale-105 hover:bg-red-600"
+>
+  Reach Out →
+</a>
+
         </div>
 
       </div>

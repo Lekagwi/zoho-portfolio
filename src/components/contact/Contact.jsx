@@ -3,6 +3,7 @@ import {
   FaGithub,
   FaLinkedin,
   FaDownload,
+  FaWhatsapp,
 } from "react-icons/fa";
 
 function Contact() {
@@ -56,6 +57,23 @@ function Contact() {
 
             </a>
 
+            <a
+  href="https://wa.me/254795347552"
+  target="_blank"
+  rel="noreferrer"
+  className="rounded-3xl border border-white/10 bg-white/5 p-8 transition-all duration-300 hover:-translate-y-2 hover:border-green-500/40 hover:bg-white/10"
+>
+  <FaWhatsapp className="text-4xl text-green-500" />
+
+  <h3 className="mt-6 text-2xl font-bold">
+    WhatsApp
+  </h3>
+
+  <p className="mt-4 text-slate-400">
+    Let's chat about opportunities.
+  </p>
+
+</a>
             <a
               href="https://www.linkedin.com/in/ian-muema-09962940b/"
               target="_blank"
