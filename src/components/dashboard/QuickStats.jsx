@@ -15,19 +15,19 @@ function QuickStats() {
           />
 
           <StatCard
-            number="02"
+            number="2"
             title="Zoho Chatbots"
             subtitle="Built with zoho SalesIQ"
           />
 
           <StatCard
-            number="02"
+            number="2"
             title="Zoho Credentials"
             subtitle="Marketing Launchpad & MEA Workshop"
           />
 
           <StatCard
-            number="08+"
+            number="8+"
             title="Zoho Products"
             subtitle="CRM • Inventory • Desk • SalesIQ"
           />
